@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/valorant-agent-picker/static/css/main.9fa6af49.css",
+    "main.js": "/valorant-agent-picker/static/js/main.a7c360e9.js",
+    "static/js/787.e1ac86e6.chunk.js": "/valorant-agent-picker/static/js/787.e1ac86e6.chunk.js",
+    "static/media/kayo.png": "/valorant-agent-picker/static/media/kayo.1e6dfd30473f80fb6d69.png",
+    "static/media/skye.png": "/valorant-agent-picker/static/media/skye.ee3dd7f77fa965a230ec.png",
+    "static/media/fade.png": "/valorant-agent-picker/static/media/fade.197550bb6779439d588b.png",
+    "static/media/killjoy.png": "/valorant-agent-picker/static/media/killjoy.6262e02b21f2395b833e.png",
+    "static/media/breach.png": "/valorant-agent-picker/static/media/breach.5fcb8916d4069f29bc87.png",
+    "static/media/yoru.png": "/valorant-agent-picker/static/media/yoru.3c79e216015a6c09ce0b.png",
+    "static/media/neon.png": "/valorant-agent-picker/static/media/neon.aca864fadb3dbb3fa3f2.png",
+    "static/media/raze.png": "/valorant-agent-picker/static/media/raze.3698de0c65a301d27d72.png",
+    "static/media/geeko.png": "/valorant-agent-picker/static/media/geeko.e5616f9ba898db05a27a.png",
+    "static/media/brimstone.png": "/valorant-agent-picker/static/media/brimstone.062141d28e862babe749.png",
+    "static/media/harbor.png": "/valorant-agent-picker/static/media/harbor.6cd945666905aa72afdd.png",
+    "static/media/sage.png": "/valorant-agent-picker/static/media/sage.6667977dec58c9ccfa03.png",
+    "static/media/astra.png": "/valorant-agent-picker/static/media/astra.d50c49ae2714ccc009ae.png",
+    "static/media/sova.png": "/valorant-agent-picker/static/media/sova.10db33667e0f6843e307.png",
+    "static/media/viper.png": "/valorant-agent-picker/static/media/viper.35fbed5fb49d987b040b.png",
+    "static/media/omen.png": "/valorant-agent-picker/static/media/omen.c26447bf7cef8873e308.png",
+    "static/media/deadlock.png": "/valorant-agent-picker/static/media/deadlock.5c819f64cd2076c6a180.png",
+    "static/media/reyna.png": "/valorant-agent-picker/static/media/reyna.07a3128a1b3553b2bcbe.png",
+    "static/media/cypher.png": "/valorant-agent-picker/static/media/cypher.28ad4534fc42a136592a.png",
+    "static/media/phoenix.png": "/valorant-agent-picker/static/media/phoenix.d928900a9c39df50d624.png",
+    "static/media/chamber.png": "/valorant-agent-picker/static/media/chamber.4985921e600c7bcfd148.png",
+    "static/media/jett.png": "/valorant-agent-picker/static/media/jett.2be4018b14ceaed96200.png",
+    "static/media/bgvalorant.png": "/valorant-agent-picker/static/media/bgvalorant.de2def0bc028c8eb7335.png",
+    "index.html": "/valorant-agent-picker/index.html",
+    "main.9fa6af49.css.map": "/valorant-agent-picker/static/css/main.9fa6af49.css.map",
+    "main.a7c360e9.js.map": "/valorant-agent-picker/static/js/main.a7c360e9.js.map",
+    "787.e1ac86e6.chunk.js.map": "/valorant-agent-picker/static/js/787.e1ac86e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fa6af49.css",
+    "static/js/main.a7c360e9.js"
+  ]
+}
